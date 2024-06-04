@@ -21,15 +21,20 @@ pip install pygame
 3. Pull the repository.
    
 4. Open folder using code editor (Visual Studio prefered) and run the **main.py** file
+ ## Game  
 5. If u done everything right you should see the main menu of the game.
-   * It should look like this
+* It should look like this
+  
 ![main_menu](https://github.com/SzymonGorkiewicz/tetris-python/assets/92310752/36ec15fe-c906-45da-bcbf-b66a5d2add75)
 
 6. Click **play game** button and enjoy your tetris game
-   * Screenshot from game:    
+* Screenshot from game:
+    
 ![game](https://github.com/SzymonGorkiewicz/tetris-python/assets/92310752/0e515abd-58eb-4d34-8643-bce73f7d4436)
 
 7. Additionally you can track your own highscores via scoreboard.
+* Scoreboard:
+  
 ![score](https://github.com/SzymonGorkiewicz/tetris-python/assets/92310752/7befb451-92fc-401f-a331-a009166280a3)
 
 ## Contributing
